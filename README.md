@@ -26,14 +26,15 @@ All R packages are installed automatically on first launch:
 
 ## How to Launch
 
-Download the `app.R` file from this repo to your local computer and then open it in Rstudio using the following command.
+1. Click on `Code` and then download files using `Download zip`.
+2. Unzip and open the `app.R` file in Rstudio using the following command.
 
 ```r
 # From R console:
 shiny::runApp("app.R")
 ```
 
-If you don't have the Rstudio, you can directly run it from `Terminal` using the following command. It should open up in your default browser.
+If you don't have the Rstudio, you can directly run it from `Terminal` on Mac using the following command. It should open up in your default browser.
 
 ```r
 # Or from terminal:

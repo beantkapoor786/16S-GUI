@@ -31,7 +31,7 @@ All R packages are installed automatically on first launch:
 
 ```r
 # From R console:
-shiny::runApp("app.R")
+shiny::runApp("dada2-16s-gui.R")
 ```
 
 If you don't have the Rstudio, you can directly run it from `Terminal` on Mac using the following command. It should open up in your default browser.

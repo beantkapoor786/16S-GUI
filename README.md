@@ -30,8 +30,8 @@ Both applications take raw paired-end Illumina FASTQ files as input and produce 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/[username]/shinyDADA2.git
-cd shinyDADA2
+git clone https://github.com/beantkapoor786/16S-ITS-GUI.git
+cd 16S-ITS-GUI
 ```
 
 2. Launch the 16S app:

@@ -295,8 +295,8 @@ Please also cite the underlying tools:
 - **ANCOM-BC2:** Lin H & Peddada SD (2024) Multigroup analysis of compositions of microbiomes with covariate adjustments and repeated measures. *Nature Methods* 21:83-91
 - **vegan:** Oksanen J et al. (2022) vegan: Community Ecology Package. R package
 - **cutadapt:** Martin M (2011) Cutadapt removes adapter sequences from high-throughput sequencing reads. *EMBnet.journal* 17:10-12
-
----
+- **SILVA:** Quast C et al. (2013) The SILVA ribosomal RNA gene database project: improved data processing and web-based tools. Nucleic Acids Research 41:D590–D596
+- **UNITE:** Nilsson RH et al. (2019) The UNITE database for molecular identification of fungi: handling dark taxa and parallel taxonomic classifications. Nucleic Acids Research 47:D259–D264
 
 ## Contributing
 

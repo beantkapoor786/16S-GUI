@@ -29,14 +29,14 @@ Please see below for more screenshots.
 
 ### Quick Start
 
-1. Clone the repository:
+1. Clone the repository (Terminal on Mac; Powershell on Windows):
 
 ```bash
 git clone https://github.com/beantkapoor786/RAPID.git
 cd RAPID 
 ```
 
-2. Launch the 16S app:
+2. Launch the 16S app (Rstudio):
 
 ```r
 shiny::runApp("RAPID_16S.R")
@@ -44,7 +44,7 @@ shiny::runApp("RAPID_16S.R")
 
 If you recieve an error related to file opening, please double check that `RAPID_16S.R` exists in your current working directory in R/Rstudio.
 
-Or launch the ITS app:
+Or launch the ITS app (Rstudio):
 
 ```r
 shiny::runApp("RAPID_ITS.R")
